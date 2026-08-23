@@ -332,5 +332,12 @@
     "status": "error_config",
     "tokenOut": "",
     "message": "Invalid configuration: CIRCLE_API_KEY: CIRCLE_API_KEY is required; CIRCLE_ENTITY_SECRET: CIRCLE_ENTITY_SECRET is required; WALLET_ID: WALLET_ID is required; ANTHROPIC_API_KEY: ANTHROPIC_API_KEY is required"
+  },
+  {
+    "date": "2026-08-23",
+    "timestamp": "2026-08-23T13:28:31.671Z",
+    "status": "error_config",
+    "tokenOut": "",
+    "message": "Invalid configuration: CIRCLE_API_KEY: CIRCLE_API_KEY is required; CIRCLE_ENTITY_SECRET: CIRCLE_ENTITY_SECRET is required; WALLET_ID: WALLET_ID is required; ANTHROPIC_API_KEY: ANTHROPIC_API_KEY is required"
   }
 ]
